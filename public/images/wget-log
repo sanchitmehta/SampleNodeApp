@@ -1,0 +1,11 @@
+--2019-09-24 16:28:55--  https://i2.wp.com/thepracticalsysadmin.com/wp-content/uploads/2018/05/k8s1.png?resize=521%2C452
+Resolving i2.wp.com (i2.wp.com)... 192.0.77.2
+Connecting to i2.wp.com (i2.wp.com)|192.0.77.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19942 (19K) [image/png]
+Saving to: ‘k8s1.png?resize=521,452’
+
+k8s1.png?resize=521,452                                                           0%[                                                                                                                                                                                                     ]       0  --.-KB/s               k8s1.png?resize=521,452                                                         100%[====================================================================================================================================================================================================>]  19.47K  --.-KB/s    in 0s      
+
+2019-09-24 16:28:55 (330 MB/s) - ‘k8s1.png?resize=521,452’ saved [19942/19942]
+

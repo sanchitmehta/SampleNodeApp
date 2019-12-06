@@ -1,0 +1,4 @@
+{
+  "title": "{{ cfg.title }}",
+  "message": "K4Apps - Deploy directly via Azure Pipelines"
+}
